@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dip Jit Baroi</h1>
 <h3 align="center">A passionate backend developer from Bangladesh</h3>
 
-- 🔭 I’m currently working on **JS ENCODER**
+- 🔭 I’m currently working on **Niyamat IT**
 
 - 💬 Ask me about **Building Restful API and design/maintain web Backend-Services**
 
