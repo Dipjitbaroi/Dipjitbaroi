@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dip Jit Baroi</h1>
 <h3 align="center">A passionate full-stack developer from Bangladesh</h3>
 
-- 🔭 I’m currently working on **Niyamat IT**
-
 - 💬 Ask me about **Building Restful API and design/create responsive web applications**
 
 - 📫 How to reach me **dipjitbaroiofficial@gmail.com**
